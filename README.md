@@ -6,7 +6,7 @@ This repository is a collection of resources around diversity in tech to serve t
 
 The following resources can be found in this repository:
 
-#### [Diversity in Tech Experts](./experts)
+#### [Experts](./experts)
 
 Are you looking for someone to consult you regarding diversity in tech in your organization? Find experts that are skilled and experienced to host workshops, give talks, or coach the members of your organization.
 
