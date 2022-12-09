@@ -2,8 +2,6 @@
 
 Here's a list of recommended resources for you to learn about diversity in tech:
 
-*Please include a short description of the resource and sort resources alphabetically*
-
 #### Blogs
 - [Decoding Tech](https://medium.com/decoding-tech) - Coding and the tech industry explained by Girls in Tech Switzerland & friends — in short stories, hands-on exercises, and food for thought. 
 
@@ -17,3 +15,4 @@ Here's a list of recommended resources for you to learn about diversity in tech:
 - [Tech Inspired](https://anchor.fm/team-techface) - A podcast by tech face featuring the stories of women in tech in Switzerland.
 - [Your Undivided Attention](https://www.humanetech.com/podcast) - A podcast about how the tech industry impacts society and how we can help build more inclusive technology.
 
+*Please include a short description of the resource and sort resources alphabetically*
