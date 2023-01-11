@@ -12,6 +12,7 @@ Here's a list of recommended resources for you to learn about diversity in tech:
 - [I am Gen Z](https://iamgenzfilm.com/) - A movie about the implications of technology on Gen Z.
 
 #### Podcasts
+- [Female TechTalk](https://www.female-techtalk.com/) - A podcast by two german girls studying computer science at a female-only university program in Berlin.
 - [Tech Inspired](https://anchor.fm/team-techface) - A podcast by tech face featuring the stories of women in tech in Switzerland.
 - [Your Undivided Attention](https://www.humanetech.com/podcast) - A podcast about how the tech industry impacts society and how we can help build more inclusive technology.
 
