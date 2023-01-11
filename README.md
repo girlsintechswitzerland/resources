@@ -20,7 +20,7 @@ Do you want to learn more about the topic of diversity in tech and get inspired?
 
 ### Movies
 
-A list of great movies about tech topics.
+A list of awesome movies about tech topics.
 
 ### Contribution Guidelines
 
