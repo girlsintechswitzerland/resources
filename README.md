@@ -1,6 +1,6 @@
 ## Girls in Tech Switzerland - Diversity in Tech Resources
 
-This repository is a collection of resources around diversity in tech to serve the [Girls in Tech Switzerland](https://switzerland.girlsintech.org/) community and beyond.
+This repository is a collection of resources around diversity in tech to serve the [Girls in Tech Switzerland](https://switzerland.girlsintech.org/) community and beyond. 
 
 ### Content
 
@@ -17,6 +17,10 @@ Are you looking for information around diversity in tech and women in tech in Sw
 #### [Recommendations](./recommendations)
 
 Do you want to learn more about the topic of diversity in tech and get inspired? Dive into our recommendations of blog posts, books, movies, and podcasts that we love and highly recommend.
+
+### Movies
+
+A list of great movies about tech topics.
 
 ### Contribution Guidelines
 
