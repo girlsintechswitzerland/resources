@@ -16,4 +16,5 @@ Here's a list of recommended resources for you to learn about diversity in tech:
 - [Tech Inspired](https://anchor.fm/team-techface) - A podcast by tech face featuring the stories of women in tech in Switzerland.
 - [Your Undivided Attention](https://www.humanetech.com/podcast) - A podcast about how the tech industry impacts society and how we can help build more inclusive technology.
 - [Archetypes](https://open.spotify.com/show/6UfyXZgVAUX1UzF8j5L72t) - A podcast where Meghan Markle investigates, dissects, and subverts the labels that try to hold women back.
+
 *Please include a short description of the resource and sort resources alphabetically*
