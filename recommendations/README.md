@@ -7,7 +7,7 @@ Here's a list of recommended resources for you to learn about diversity in tech:
 
 #### Books
 - [What Works: Gender Equality by Design](https://scholar.harvard.edu/iris_bohnet/what-works), Iris Bohnet - A book that presents the latest research regarding gender equality based on psychological studies and puts them into practical perspectives ([summary article](https://knowledge.wharton.upenn.edu/article/gender-equality-design-building-inclusive-productive-workplace/)).
-
+- [Invisible Women: Exposing Data Bias in a World Designed for Men](https://carolinecriadoperez.com/book/invisible-women/), Caroline Criado Perez - A book that exposes the gender data gap - a gapin our knowledge that is at the root of perpetual, systemic discrimination agains women, and that has created a pervasive but invisible bias with a profound effect on women's lives.
 #### Movies
 - [I am Gen Z](https://iamgenzfilm.com/) - A movie about the implications of technology on Gen Z.
 
