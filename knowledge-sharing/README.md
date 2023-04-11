@@ -18,9 +18,6 @@ Girls in Tech Switzerland has compiled this list of resources in order to facili
 - Article: “The Tech Industry’s Gender-Discrimination Problem” (New Yorker, [link](https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem))
 - Article: “The Gender Gap is Hurting the Tech Industry: It’s Time to #BreaktheBias Now” (Ivanti, [link](https://www.ivanti.com/blog/the-gender-gap-is-hurting-the-tech-industry-it-s-time-to-breakthebias-now-by))
 
-#### Books
-- Book: “Brotopia: Breaking up the Boys’ Club of Silicon Valley” (Emily Chang)
-  - Excerpt: “The vile experiences of women in tech” (The Economist, [link](https://www.economist.com/open-future/2019/05/03/the-vile-experiences-of-women-in-tech?utm_medium=cpc.adword.pd&utm_source=google&ppccampaignID=18151738051&ppcadID=&utm_campaign=a.22brand_pmax&utm_content=conversion.direct-response.anonymous&gclid=CjwKCAiA-dCcBhBQEiwAeWidtVQqMSTbb4j-rowzTaOnOZAc4iq5AMTppHAoYtOhi2b_AnK0OM48xRoCYf8QAvD_BwE&gclsrc=aw.ds))
 
 #### Unconscious Bias
 - Training: “50 Ways to Fight Bias” (Lean In, [link](https://leanin.org/50-ways-to-fight-gender-bias))
