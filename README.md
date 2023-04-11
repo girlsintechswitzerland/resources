@@ -8,7 +8,7 @@ The following resources can be found in this repository:
 
 #### [Experts](./experts)
 
-Are you looking for someone to consult you regarding diversity in tech in your organization? Find experts that are skilled and experienced to host workshops, give talks, or coach the members of your organization.
+Are you looking for someone to consult you regarding diversity in tech in your organization? Are you looking for a woman in tech as a speaker for your next event? Find experts that are skilled and experienced to host workshops, give talks, or coach the members of your organization.
 
 #### [Knowledge Sharing](./knowledge-sharing)
 
