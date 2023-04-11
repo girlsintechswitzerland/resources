@@ -11,7 +11,7 @@ Girls in Tech Switzerland has compiled this list of resources in order to facili
 
 #### Slides
 
-- [Unconscious bias](comingsoon) - A presentation about different biases and how they play out in the workplace.
+- [Unconscious bias](comingsoon) - A presentation about different biases and how they play out in the workplace. Coming soon...
 
 #### Fact Sheets
 - Report: “Women in the Workplace: State of the Pipeline 2022” (Lean In, [link](https://leanin.org/women-in-the-workplace/2022))
