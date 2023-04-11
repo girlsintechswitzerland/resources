@@ -31,7 +31,7 @@ Girls in Tech Switzerland has compiled this list of resources in order to facili
 - Video: “Addressing Unconscious Bias” (McKinsey, [link](https://www.youtube.com/watch?v=JFW2cfzevio))
 - Video: “Are You Biased? I Am” (TEDx Basel, [link](https://www.youtube.com/watch?v=Bq_xYSOZrgU))
 - Video: “How to Outsmart Your Own Unconscious Bias” (TEDx Pasadena, [link](https://www.youtube.com/watch?v=GP-cqFLS8Q4))
-- Implicit Association Test (IAT): [link](https://www.youtube.com/watch?v=Bq_xYSOZrgU)) / [Video about IAT](https://www.youtube.com/watch?v=ABSeKU2qJoI))
+- Implicit Association Test (IAT): [link](https://implicit.harvard.edu/implicit/takeatest.html) / [Video about IAT](https://www.youtube.com/watch?v=ABSeKU2qJoI)
 
 
 #### Closing the Gender Gap
