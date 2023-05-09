@@ -1,4 +1,4 @@
-### Experts
+### Diversity in Tech Experts
 
 Here's a list of experts in our community that can help you drive your efforts around diversity in tech:
 
