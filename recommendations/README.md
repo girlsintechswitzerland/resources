@@ -3,7 +3,11 @@
 Here's a list of recommended resources for you to learn about diversity in tech:
 
 #### Blogs
-- [Decoding Tech](https://medium.com/decoding-tech) - Coding and the tech industry explained by Girls in Tech Switzerland & friends — in short stories, hands-on exercises, and food for thought. 
+
+| Title         | Details        | 
+| :------------- | :------------- |
+| [Decoding Tech](https://medium.com/decoding-tech) | Coding and the tech industry explained by Girls in Tech Switzerland & friends — in short stories, hands-on exercises, and food for thought. |
+ 
 
 #### Books
 
@@ -15,14 +19,22 @@ Here's a list of recommended resources for you to learn about diversity in tech:
 |[What Works: Gender Equality by Design](https://scholar.harvard.edu/iris_bohnet/what-works)|Iris Bohnet|A book that presents the latest research regarding gender equality based on psychological studies and puts them into practical perspectives ([summary article](https://knowledge.wharton.upenn.edu/article/gender-equality-design-building-inclusive-productive-workplace/)).
 
 #### Movies
-- [I am Gen Z](https://iamgenzfilm.com/) - A movie about the implications of technology on Gen Z.
+
+| Title         | Details        | 
+| :------------- | :------------- |
+| [I am Gen Z](https://iamgenzfilm.com/) | A movie about the implications of technology on Gen Z. |
 
 #### Podcasts
-- [Archetypes](https://open.spotify.com/show/6UfyXZgVAUX1UzF8j5L72t) - A podcast where Meghan Markle investigates, dissects, and subverts the labels that try to hold women back.
-- [Female Founder Podcast](https://female-founders.ch/home/podcast/) - Swiss podcast for female founders. The episodes vary from talking about the female startup landscape to circular economy in fashion over to investing into female businesses.
-- [Female TechTalk](https://www.female-techtalk.com/) - A podcast by two german girls studying computer science at a female-only university program in Berlin.
-- [Tech Inspired](https://anchor.fm/team-techface) - A podcast by tech face featuring the stories of women in tech in Switzerland.
-- [Your Undivided Attention](https://www.humanetech.com/podcast) - A podcast about how the tech industry impacts society and how we can help build more inclusive technology.
+
+| Title         | Details        | 
+| :------------- | :------------- |
+| [Archetypes](https://open.spotify.com/show/6UfyXZgVAUX1UzF8j5L72t) | A podcast where Meghan Markle investigates, dissects, and subverts the labels that try to hold women back. |
+| [Female Founder Podcast](https://female-founders.ch/home/podcast/) | Swiss podcast for female founders. The episodes vary from talking about the female startup landscape to circular economy in fashion over to investing into female businesses. |
+| [Female TechTalk](https://www.female-techtalk.com/) | A podcast by two german girls studying computer science at a female-only university program in Berlin. |
+| [Tech Inspired](https://anchor.fm/team-techface) | A podcast by tech face featuring the stories of women in tech in Switzerland. |
+| [Your Undivided Attention](https://www.humanetech.com/podcast) | A podcast about how the tech industry impacts society and how we can help build more inclusive technology. |
+
+
 
 
 *Please include a short description of the resource and sort resources alphabetically*
