@@ -8,7 +8,7 @@ Girls in Tech Switzerland has compiled this list of resources in order to facili
 #### Switzerland-Specific Resources
 | Title         | Source        | Type         |
 | :------------- | :------------- |:------------- |
-| [Gender Intelligence Report 2022](https://www.advance-hsg-report.ch/wp-content/uploads/2022/09/Gender-Intelligence-Report-2022-Executive-Version.pdf) | HSG / Advance | Report |
+| [Gender Intelligence Report 2023](https://www.advance-hsg-report.ch/wp-content/uploads/2023/09/Gender_Intelligence_Report_2023_Executive_Version.pdf) | HSG / Advance | Report |
 | [Research in Switzerland hurt by gender gap and dispute with EU](https://www.swissinfo.ch/eng/research-in-switzerland-hurt-by-gender-gap-and-dispute-with-eu/47349810) | SwissInfo | Article |
 
 
