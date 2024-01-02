@@ -58,3 +58,30 @@ In this section, we'll guide you through the process of creating a new branch an
 7. Add a title and description to describe your changes.
 8. Click on the "Create pull request" button again.
 <img width="1669" alt="Screenshot 2024-01-02 at 07 49 50" src="https://github.com/girlsintechswitzerland/resources/assets/4119469/c721d60f-48ec-4e18-9254-2c3aa6974988">
+
+#### Command Line (Git)
+**Creating a New Branch:**
+
+1. Open a terminal and navigate to your local repository.
+2. Use the following commands
+```
+git pull origin main   # Ensure you have the latest changes from the main branch
+git checkout -b your-branch-name   # Create and switch to a new branch
+```
+3. Make changes in your branch and commit them
+```
+git add your-edited-file-name
+git commit -m "your-commit-message"
+```
+4. Push your branch to the remote repository
+```
+git push origin your-branch-name
+```
+
+**Making a Merge Request:**
+1. Visit your GitHub repository in a web browser.
+2. Click on the "Compare & pull request" button.
+3. Set the base and compare branches.
+4. Click on the "Create pull request" button.
+5. Add a title and description.
+6. Click on the "Create pull request" button again.
