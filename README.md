@@ -28,7 +28,7 @@ If you'd like to add a resource, create a pull request that we will review.
 
 In this section, we'll guide you through the process of creating a new branch and initiating a merge request using both the GitHub web interface and the Git command line. Whether you're new to Git or looking for a quick reference, these instructions will help you seamlessly contribute to our repository. Let's get started! 🚀
 
-#### Web Interface (GitHub Website):
+#### Web Interface (GitHub Website)
 **Creating a New Branch:**
 
 1. Navigate to the GitHub repository.
@@ -45,14 +45,16 @@ In this section, we'll guide you through the process of creating a new branch an
 <img width="1681" alt="Screenshot 2024-01-02 at 07 46 14" src="https://github.com/girlsintechswitzerland/resources/assets/4119469/ab306102-2907-473c-8b67-dd7da4afa689">
 <img width="1686" alt="Screenshot 2024-01-02 at 07 46 58" src="https://github.com/girlsintechswitzerland/resources/assets/4119469/b4d87c2f-0d79-4e1c-b48b-6ae4a55ab669">
 
-
 **Making a Merge Request:**
 
 1. After making changes in your branch, go to the repository on GitHub.
 2. On the repository page, find and click on the "Pull Requests" tab.
+<img width="1689" alt="Screenshot 2024-01-02 at 07 49 35" src="https://github.com/girlsintechswitzerland/resources/assets/4119469/fe76f725-f349-42fc-899a-7ed7183bc2fb">
 3. Click the green "New pull request" button.
+<img width="1689" alt="Screenshot 2024-01-02 at 07 49 35" src="https://github.com/girlsintechswitzerland/resources/assets/4119469/e9853598-336e-4eb0-a708-2d57ba8a2d46">
 4. Set the base branch (the branch you want to merge into - should be main branch) and the compare branch (your new branch).
 5. Review the changes in the "Comparing changes" tab.
 6. If everything looks good, click on the "Create pull request" button.
 7. Add a title and description to describe your changes.
 8. Click on the "Create pull request" button again.
+<img width="1669" alt="Screenshot 2024-01-02 at 07 49 50" src="https://github.com/girlsintechswitzerland/resources/assets/4119469/c721d60f-48ec-4e18-9254-2c3aa6974988">
