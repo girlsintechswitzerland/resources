@@ -40,6 +40,6 @@ Here's a list of recommended resources for you to learn about diversity in tech:
 #### Music
 | Title         | Details        | 
 | :------------- | :------------- |
-|Us3(https://www.youtube.com/channel/UCt9tMG_6HOqK-oFsJsAT83g?feature=gws_kp_artist&feature=gws_kp_artist)
+|Us3(https://www.youtube.com/channel/UCt9tMG_6HOqK-oFsJsAT83g?feature=gws_kp_artist&feature=gws_kp_artist)|
 
 *Please include a short description of the resource and sort resources alphabetically*
