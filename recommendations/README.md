@@ -17,7 +17,9 @@ Here's a list of recommended resources for you to learn about diversity in tech:
 | [Invisible Women: Exposing Data Bias in a World Designed for Men](https://carolinecriadoperez.com/book/invisible-women/)  | Caroline Criado Perez  |A book that exposes the gender data gap - a gap in our knowledge that is at the root of perpetual, systemic discrimination against women, and that has created a pervasive but invisible bias with a profound effect on women's lives.|
 |[Rebel Ideas: The Power of Diverse Thinking](https://www.matthewsyed.co.uk/book/rebel-ideas-the-power-of-diverse-thinking/)|Matthew Syed|The book examines the power of ‘cognitive diversity’ – the ability to think differently about the world around us. It explains how to harness our unique perspectives, pool our collective intelligence and tackle the greatest challenges of our age.|
 |[What Works: Gender Equality by Design](https://scholar.harvard.edu/iris_bohnet/what-works)|Iris Bohnet|A book that presents the latest research regarding gender equality based on psychological studies and puts them into practical perspectives ([summary article](https://knowledge.wharton.upenn.edu/article/gender-equality-design-building-inclusive-productive-workplace/)).
-|[The Loudest Duck: Moving Beyond Diversity while Embracing Differences to Achieve Success at Work](https://www.lauraliswood.com/the-loudest-duck)|Laura Liswood|A book that dives into the many aspects of diversity in the ever-expanding, increasingly global workplace.|  
+|[The Loudest Duck](https://www.lauraliswood.com/the-loudest-duck)|Laura Liswood|A book that dives into the many aspects of diversity in the ever-expanding, increasingly global workplace.|
+|[The Elephant and the Mouse](https://www.lauraliswood.com/the-loudest-duck-copy)|Lausa Liswood|A book that delivers a thought-provoking and insightful new business guide that explores workplace diversity and offers new ideas for gaining the real benefits from your diversity, equity, and inclusion initiatives.|
+|[Untenrum frei](https://www.goodreads.com/book/show/30258435-untenrum-frei)|Margarete Stokowski|A book about freedom, equality and sexuality. (Available in German).|
 
 #### Movies
 
@@ -35,7 +37,9 @@ Here's a list of recommended resources for you to learn about diversity in tech:
 | [Tech Inspired](https://anchor.fm/team-techface) | A podcast by tech face featuring the stories of women in tech in Switzerland. |
 | [Your Undivided Attention](https://www.humanetech.com/podcast) | A podcast about how the tech industry impacts society and how we can help build more inclusive technology. |
 
-
-
+#### Music
+| Title         | Details        | 
+| :------------- | :------------- |
+|Us3(https://www.youtube.com/channel/UCt9tMG_6HOqK-oFsJsAT83g?feature=gws_kp_artist&feature=gws_kp_artist)
 
 *Please include a short description of the resource and sort resources alphabetically*
